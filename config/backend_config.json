@@ -5,6 +5,7 @@
   "base_url": "https://quickchoice-backend.abhinavagarwal-info.workers.dev",
   "ai_path": "/ai",
   "subscription_path": "/subscription",
+  "free_daily_limit": 3,
   "timeout_seconds": 30,
   "allow_legacy_ai_fallback": false,
   "allow_legacy_subscription_fallback": false
