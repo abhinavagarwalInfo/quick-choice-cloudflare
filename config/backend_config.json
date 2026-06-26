@@ -1,7 +1,8 @@
 {
   "version": 1,
   "provider": "cloudflare_worker",
-  "base_url": "",
+  "backend_type":"cloudflare",
+  "base_url": "https://quickchoice-backend.abhinavagarwal-info.workers.dev",
   "ai_path": "/ai",
   "subscription_path": "/subscription",
   "timeout_seconds": 30,
