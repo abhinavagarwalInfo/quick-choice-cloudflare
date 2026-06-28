@@ -5,7 +5,7 @@
   "base_url": "https://quickchoice-backend.abhinavagarwal-info.workers.dev",
   "ai_path": "/ai",
   "subscription_path": "/subscription",
-  "free_daily_limit": 3,
+  "free_daily_limit": 1,
   "reset_hour_utc": 0,
   "rewarded_credits_per_ad": 2,
   "rewarded_max_ads_per_day": 2,
